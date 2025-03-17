@@ -48,6 +48,7 @@ Hardware – PCs, Cyclone II , USB flasher
   endmodule 
 
 **RTL realization**
+
 ![WhatsApp Image 2025-03-17 at 14 31 38_e3b2870c](https://github.com/user-attachments/assets/737436c3-6ca0-49f4-a06f-09a8cad5ea2a)
 
 **Output:**
