@@ -53,6 +53,7 @@ Hardware – PCs, Cyclone II , USB flasher
 ![Screenshot 2025-03-17 135750](https://github.com/user-attachments/assets/fbc94b03-6b27-4352-932b-866894cdb027)
 
 **RTL**
+![exp_2](https://github.com/user-attachments/assets/db543de6-7b99-45d0-8c72-824b1c670015)
 
 **Timing Diagram**
 
