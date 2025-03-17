@@ -34,11 +34,17 @@ Hardware – PCs, Cyclone II , USB flasher
 **Program:**
 
   Developed by: Jude Clement Jose G
+  
   RegisterNumber:212224230109
+  
   module exp_2(a,b,c,d,F1);
+  
   input a,b,c,d;
+  
   output F1;
+  
   assign F1=((~a&b&d)|(~b&~d)|(a&b&~c));
+  
   endmodule 
 
 **RTL realization**
